@@ -1,0 +1,23 @@
+{
+  "response": {
+    "persons": [
+      {
+        "name": "Bob",
+        "employed": "false"
+      },
+      {
+        "name": "Vinny",
+        "employed": "true"
+      }
+    ],
+    "jobs":[
+     {"jobTitle":"chef",
+        "salary": 50000
+    },{
+      "jobTitle":"engineer",
+       "salary": 70000
+    }
+    ]
+  }
+}
+
